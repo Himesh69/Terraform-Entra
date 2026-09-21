@@ -1,0 +1,31 @@
+# Local .terraform directories
+**/.terraform/*
+
+# State files (using remote backend now, but ignore anyway — safety net)
+*.tfstate
+*.tfstate.*
+
+# Crash log files
+crash.log
+crash.*.log
+
+# Exclude override files (personal overrides, never commit)
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# CLI config (may contain credentials)
+.terraformrc
+terraform.rc
+
+# Var files with secrets
+*.tfvars
+*.tfvars.json
+!example.tfvars
+
+# Plan output files (may contain sensitive data)
+*.tfplan
+*tfplan*
+
+# Ignore CLI configuration files
