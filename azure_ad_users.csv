@@ -1,0 +1,51 @@
+employee_id,username,display_name,email,user_principal_name,department,job_title,location,manager_email,groups,account_enabled
+EMP1001,saanvi.mehta,Saanvi Mehta,saanvi.mehta@corptechsol.com,saanvi.mehta@corptechsol.com,Finance,Financial Analyst,Mumbai,manager.finance@corptechsol.com,grp-finance,TRUE
+EMP1002,aarav.nair,Aarav Nair,aarav.nair@corptechsol.com,aarav.nair@corptechsol.com,Engineering,QA Engineer,Mumbai,manager.engineering@corptechsol.com,grp-allstaff;grp-engineering,TRUE
+EMP1003,arjun.rao,Arjun Rao,arjun.rao@corptechsol.com,arjun.rao@corptechsol.com,Finance,Finance Manager,Mumbai,manager.finance@corptechsol.com,grp-finance,TRUE
+EMP1004,ananya.kumar,Ananya Kumar,ananya.kumar@corptechsol.com,ananya.kumar@corptechsol.com,Engineering,Software Engineer,Mumbai,manager.engineering@corptechsol.com,grp-engineering,TRUE
+EMP1005,sneha.chatterjee,Sneha Chatterjee,sneha.chatterjee@corptechsol.com,sneha.chatterjee@corptechsol.com,Sales,Sales Manager,Bangalore,manager.sales@corptechsol.com,grp-azure-admins;grp-sales,TRUE
+EMP1006,krishna.malhotra,Krishna Malhotra,krishna.malhotra@corptechsol.com,krishna.malhotra@corptechsol.com,HR,Talent Acquisition Specialist,Chennai,manager.hr@corptechsol.com,grp-hr,TRUE
+EMP1007,anika.nair,Anika Nair,anika.nair@corptechsol.com,anika.nair@corptechsol.com,IT,Infrastructure Engineer,Remote,manager.it@corptechsol.com,grp-it,TRUE
+EMP1008,sunita.kapoor,Sunita Kapoor,sunita.kapoor@corptechsol.com,sunita.kapoor@corptechsol.com,Sales,Account Manager,Delhi,manager.sales@corptechsol.com,grp-sales,TRUE
+EMP1009,pari.iyer,Pari Iyer,pari.iyer@corptechsol.com,pari.iyer@corptechsol.com,Product,Product Owner,Chennai,manager.product@corptechsol.com,grp-azure-admins;grp-product,TRUE
+EMP1010,vikram.reddy,Vikram Reddy,vikram.reddy@corptechsol.com,vikram.reddy@corptechsol.com,Security,Compliance Officer,Mumbai,manager.security@corptechsol.com,grp-security,TRUE
+EMP1011,ishaan.reddy,Ishaan Reddy,ishaan.reddy@corptechsol.com,ishaan.reddy@corptechsol.com,Product,Product Owner,Remote,manager.product@corptechsol.com,grp-product,TRUE
+EMP1012,rahul.verma,Rahul Verma,rahul.verma@corptechsol.com,rahul.verma@corptechsol.com,Engineering,Backend Developer,Delhi,manager.engineering@corptechsol.com,grp-engineering;grp-vpn-access,TRUE
+EMP1013,meera.nair,Meera Nair,meera.nair@corptechsol.com,meera.nair@corptechsol.com,Operations,Logistics Coordinator,Bangalore,manager.operations@corptechsol.com,grp-operations,TRUE
+EMP1014,vikram.mehta,Vikram Mehta,vikram.mehta@corptechsol.com,vikram.mehta@corptechsol.com,Marketing,SEO Specialist,Chennai,manager.marketing@corptechsol.com,grp-azure-admins;grp-marketing,TRUE
+EMP1015,aadhya.agarwal,Aadhya Agarwal,aadhya.agarwal@corptechsol.com,aadhya.agarwal@corptechsol.com,Sales,Account Manager,Remote,manager.sales@corptechsol.com,grp-sales,TRUE
+EMP1016,aarav.malhotra,Aarav Malhotra,aarav.malhotra@corptechsol.com,aarav.malhotra@corptechsol.com,IT,System Administrator,Chennai,manager.it@corptechsol.com,grp-it,TRUE
+EMP1017,shreya.chatterjee,Shreya Chatterjee,shreya.chatterjee@corptechsol.com,shreya.chatterjee@corptechsol.com,Finance,Payroll Specialist,Delhi,manager.finance@corptechsol.com,grp-finance,TRUE
+EMP1018,vivaan.bose,Vivaan Bose,vivaan.bose@corptechsol.com,vivaan.bose@corptechsol.com,IT,Infrastructure Engineer,Remote,manager.it@corptechsol.com,grp-allstaff;grp-it,TRUE
+EMP1019,aadhya.kapoor,Aadhya Kapoor,aadhya.kapoor@corptechsol.com,aadhya.kapoor@corptechsol.com,IT,System Administrator,Hyderabad,manager.it@corptechsol.com,grp-it,TRUE
+EMP1020,shreya.kumar,Shreya Kumar,shreya.kumar@corptechsol.com,shreya.kumar@corptechsol.com,Sales,Sales Manager,Delhi,manager.sales@corptechsol.com,grp-sales,TRUE
+EMP1021,aditya.gupta,Aditya Gupta,aditya.gupta@corptechsol.com,aditya.gupta@corptechsol.com,Sales,Sales Manager,Delhi,manager.sales@corptechsol.com,grp-sales,TRUE
+EMP1022,suresh.joshi,Suresh Joshi,suresh.joshi@corptechsol.com,suresh.joshi@corptechsol.com,Security,SOC Engineer,Remote,manager.security@corptechsol.com,grp-security;grp-vpn-access,TRUE
+EMP1023,vihaan.kapoor,Vihaan Kapoor,vihaan.kapoor@corptechsol.com,vihaan.kapoor@corptechsol.com,Engineering,QA Engineer,Delhi,manager.engineering@corptechsol.com,grp-azure-admins;grp-engineering,TRUE
+EMP1024,neha.sharma,Neha Sharma,neha.sharma@corptechsol.com,neha.sharma@corptechsol.com,Operations,Operations Executive,Chennai,manager.operations@corptechsol.com,grp-azure-admins;grp-operations,TRUE
+EMP1025,myra.kapoor,Myra Kapoor,myra.kapoor@corptechsol.com,myra.kapoor@corptechsol.com,Product,Product Owner,Delhi,manager.product@corptechsol.com,grp-product,FALSE
+EMP1026,aadhya.nair,Aadhya Nair,aadhya.nair@corptechsol.com,aadhya.nair@corptechsol.com,Security,Security Architect,Delhi,manager.security@corptechsol.com,grp-security,TRUE
+EMP1027,kiara.patel,Kiara Patel,kiara.patel@corptechsol.com,kiara.patel@corptechsol.com,Sales,Sales Executive,Hyderabad,manager.sales@corptechsol.com,grp-sales,TRUE
+EMP1028,krishna.das,Krishna Das,krishna.das@corptechsol.com,krishna.das@corptechsol.com,Product,Product Owner,Delhi,manager.product@corptechsol.com,grp-product,TRUE
+EMP1029,meera.patel,Meera Patel,meera.patel@corptechsol.com,meera.patel@corptechsol.com,DevOps,Cloud Engineer,Delhi,manager.devops@corptechsol.com,grp-allstaff;grp-devops,TRUE
+EMP1030,ramesh.agarwal,Ramesh Agarwal,ramesh.agarwal@corptechsol.com,ramesh.agarwal@corptechsol.com,Product,Product Manager,Remote,manager.product@corptechsol.com,grp-product,FALSE
+EMP1031,meera.sharma,Meera Sharma,meera.sharma@corptechsol.com,meera.sharma@corptechsol.com,Operations,Operations Manager,Chennai,manager.operations@corptechsol.com,grp-allstaff;grp-operations,TRUE
+EMP1032,sneha.agarwal,Sneha Agarwal,sneha.agarwal@corptechsol.com,sneha.agarwal@corptechsol.com,IT,Network Engineer,Chennai,manager.it@corptechsol.com,grp-azure-admins;grp-it,TRUE
+EMP1033,anika.kumar,Anika Kumar,anika.kumar@corptechsol.com,anika.kumar@corptechsol.com,Finance,Accountant,Remote,manager.finance@corptechsol.com,grp-finance,TRUE
+EMP1034,saanvi.patel,Saanvi Patel,saanvi.patel@corptechsol.com,saanvi.patel@corptechsol.com,Engineering,Software Engineer,Delhi,manager.engineering@corptechsol.com,grp-engineering,TRUE
+EMP1035,rajesh.verma,Rajesh Verma,rajesh.verma@corptechsol.com,rajesh.verma@corptechsol.com,IT,System Administrator,Bangalore,manager.it@corptechsol.com,grp-it,TRUE
+EMP1036,riya.chatterjee,Riya Chatterjee,riya.chatterjee@corptechsol.com,riya.chatterjee@corptechsol.com,Product,Product Analyst,Mumbai,manager.product@corptechsol.com,grp-allstaff;grp-product,TRUE
+EMP1037,pooja.singh,Pooja Singh,pooja.singh@corptechsol.com,pooja.singh@corptechsol.com,Marketing,SEO Specialist,Delhi,manager.marketing@corptechsol.com,grp-marketing;grp-vpn-access,TRUE
+EMP1038,arjun.malhotra,Arjun Malhotra,arjun.malhotra@corptechsol.com,arjun.malhotra@corptechsol.com,Sales,Account Manager,Bangalore,manager.sales@corptechsol.com,grp-sales,TRUE
+EMP1039,navya.mehta,Navya Mehta,navya.mehta@corptechsol.com,navya.mehta@corptechsol.com,Finance,Finance Manager,Hyderabad,manager.finance@corptechsol.com,grp-finance,TRUE
+EMP1040,nisha.singh,Nisha Singh,nisha.singh@corptechsol.com,nisha.singh@corptechsol.com,Marketing,Marketing Executive,Chennai,manager.marketing@corptechsol.com,grp-marketing,TRUE
+EMP1041,suresh.kapoor,Suresh Kapoor,suresh.kapoor@corptechsol.com,suresh.kapoor@corptechsol.com,HR,HR Manager,Chennai,manager.hr@corptechsol.com,grp-azure-admins;grp-hr,TRUE
+EMP1042,reyansh.nair,Reyansh Nair,reyansh.nair@corptechsol.com,reyansh.nair@corptechsol.com,Security,SOC Engineer,Remote,manager.security@corptechsol.com,grp-security,TRUE
+EMP1043,deepak.patel,Deepak Patel,deepak.patel@corptechsol.com,deepak.patel@corptechsol.com,Security,Security Analyst,Bangalore,manager.security@corptechsol.com,grp-security,TRUE
+EMP1044,aditya.kumar,Aditya Kumar,aditya.kumar@corptechsol.com,aditya.kumar@corptechsol.com,Operations,Admin Executive,Remote,manager.operations@corptechsol.com,grp-operations,TRUE
+EMP1045,amit.pillai,Amit Pillai,amit.pillai@corptechsol.com,amit.pillai@corptechsol.com,Engineering,Backend Developer,Hyderabad,manager.engineering@corptechsol.com,grp-engineering,FALSE
+EMP1046,saanvi.das,Saanvi Das,saanvi.das@corptechsol.com,saanvi.das@corptechsol.com,IT,IT Support Specialist,Hyderabad,manager.it@corptechsol.com,grp-it,TRUE
+EMP1047,aadhya.nair1,Aadhya Nair,aadhya.nair1@corptechsol.com,aadhya.nair1@corptechsol.com,Marketing,SEO Specialist,Remote,manager.marketing@corptechsol.com,grp-marketing,TRUE
+EMP1048,ayaan.singh,Ayaan Singh,ayaan.singh@corptechsol.com,ayaan.singh@corptechsol.com,HR,People Ops Specialist,Chennai,manager.hr@corptechsol.com,grp-hr,FALSE
+EMP1049,rekha.singh,Rekha Singh,rekha.singh@corptechsol.com,rekha.singh@corptechsol.com,DevOps,Site Reliability Engineer,Bangalore,manager.devops@corptechsol.com,grp-azure-admins;grp-devops,TRUE
+EMP1050,aarav.iyer,Aarav Iyer,aarav.iyer@corptechsol.com,aarav.iyer@corptechsol.com,Product,UX Designer,Hyderabad,manager.product@corptechsol.com,grp-product,TRUE

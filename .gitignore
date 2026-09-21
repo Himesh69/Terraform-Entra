@@ -29,3 +29,6 @@ terraform.rc
 *tfplan*
 
 # Ignore CLI configuration files
+
+# Generated credentials file (contains plaintext passwords)
+user_credentials.csv
